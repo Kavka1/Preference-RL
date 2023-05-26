@@ -9,7 +9,7 @@ For hard-to-specify tasks. It is difficult to quantify the utilities of decision
 
 ## Existing works
 
-Categorized by the research problems than methods.
+Categorized by the research problems then methods.
 
 ### <u> Directly learning from preferences without fitting a reward model?</u>
 
@@ -26,7 +26,7 @@ Categorized by the research problems than methods.
   
   - **Asking Easy Questions: A User-Friendly Approach to Active Reward Learning**. <br> Bıyık E, Palan M, Landolfi N C, et al. (**CoRL 2019**) [[paper]](https://arxiv.org/abs/1910.04365)
 
-  - **Active Preference-Based Gaussian Process Regression for Reward Learning**. <br> Bıyık E, Huynh N, Kochenderfer M J, et al. (**RRS 2020**) [[paper]](https://arxiv.org/abs/2005.02575)
+  - **Active Preference-Based Gaussian Process Regression for Reward Learning**. <br> Bıyık E, Huynh N, Kochenderfer M J, et al. (**RSS 2020**) [[paper]](https://arxiv.org/abs/2005.02575)
 
   - **Active preference learning using maximum regret**. <br> Wilde N, Kulić D, Smith S L. (**IROS 2020**) [[paper]](https://ieeexplore.ieee.org/abstract/document/9341530)
 
