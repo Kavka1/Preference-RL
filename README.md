@@ -17,6 +17,8 @@ Categorized by the research problems then methods.
   
 - **Model-free preference-based reinforcement learning**.  <br> Wirth C, Fürnkranz J, Neumann G. (**AAAI 2016**) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/10269)
 
+- **Inverse Preference Learning: Preference-based RL without a Reward Function**. <br> Rafailov R, Sharma A, Mitchell E, et al. (**Arxiv**) [[paper]](https://arxiv.org/abs/2305.18290)
+
 
 ### <u> Learning with as few preferences as possible (Feedback-efficient) ? </u>
 
@@ -70,6 +72,8 @@ Categorized by the research problems then methods.
 
 - **Models of human preference for learning reward functions**. <br> Knox W B, Hatgis-Kessell S, Booth S, et al. (**Preprint 2022**) [[paper]](https://arxiv.org/abs/2206.02231) <br> * *Propose using regrets as an alternative form to model the preferences instead of the trajectory return*.
 
+- **Non-Markovian Reward Modelling from Trajectory Labels via Interpretable Multiple Instance Learning**. <br> Early J, Bewley T, Evers C, et al. (**NIPS 2022**) [[paper]](https://arxiv.org/abs/2205.15367) <br> * **Non-markovian reward modelling with preferences**
+
 - **Preference Transformer: Modeling Human Preferences using Transformers for RL** <br> Changyeon Kim, Jongjin Park, Jinwoo Shin, Honglak Lee, Pieter Abbeel, Kimin Lee. (**ICLR 2023**) [[paper]](https://arxiv.org/abs/2303.00957) 
 
 ### <u> Different forms of (human) feedbacks? </u>
@@ -78,6 +82,11 @@ Categorized by the research problems then methods.
 
 - **Widening the Pipeline in Human-Guided Reinforcement Learning with Explanation and Context-Aware Data Augmentation**. <br> Guan L, Verma M, Guo S S, et al. (**NIPS 2021**) [[paper]](https://proceedings.neurips.cc/paper/2021/hash/b6f8dc086b2d60c5856e4ff517060392-Abstract.html) <br> * *Requiring human annotating the task-related features on the observation features*.
 
+- **Boosting Offline Reinforcement Learning with Action Preference Query**. <br> Yang Q, Wang S, Lin M G, et al. (**ICML 2023**) [[paper]](https://arxiv.org/abs/2306.03362) <br> * *Assume access to limited action preference queries*.
+
+- **Relative Behavioral Attributes: Filling the Gap between Symbolic Goal Specification and Reward Learning from Human Preferences** <br> Guan L, Valmeekam K, Kambhampati S. (**ICLR 2023**) [[paper]](https://arxiv.org/abs/2210.15906) <br> * *Symbolic human feedback*
+
+
 ### <u> Novel problem settings related to PBRL </u>
 
 - **Beyond Reward: Offline Preference-guided Policy Optimization**. <br> Kang Y, Shi D, Liu J, et al. (**ICML 2023**) [[paper]](https://openreview.net/forum?id=i8AnfJYMvz) <br> * *Offline + Preference (Same as Preference Transformer)*
@@ -85,6 +94,11 @@ Categorized by the research problems then methods.
 - **Efficient Meta Reinforcement Learning for Preference-based Fast Adaptation**. <br> Ren Z, Liu A, Liang Y, et al. (**NIPS 2022**) [[paper]](https://arxiv.org/abs/2211.10861) <br> * *For Meta RL, we can only access to the preferences at the meta-testing stage while the ground truth rewards are only accessible in the meta-training stage.*
 
 - **Deploying Offline Reinforcement Learning with Human Feedback**. <br> Li Z, Xu K, Liu L, et al. (**Preprint 2023**) [[paper]](https://arxiv.org/abs/2303.07046) <br> * *Select the offline trained models for downstream deployment with human feedback*
+
+- **Boosting Offline Reinforcement Learning with Action Preference Query**. <br> Yang Q, Wang S, Lin M G, et al. (**ICML 2023**) [[paper]](https://arxiv.org/abs/2306.03362) <br> * *Assume access to limited action preference queries*.
+
+- **Prompt-Tuning Decision Transformer with Preference Ranking**. <br> Hu S, Shen L, Zhang Y, et al. (**Arxiv**) [[paper]](https://arxiv.org/abs/2305.09648) * **Use preference to tunning the prompt ot DT**
+
 
 ### <u> (Skill Discovery) Discovering skills aligning with human intents </u>
 
@@ -115,6 +129,7 @@ Categorized by the research problems then methods.
 
 - **Shattering the Agent-Environment Interface for Fine-Tuning Inclusive Language Models**. <br> Xu W, Dong S, Arumugam D, et al. (**Preprint 2023**) [[paper]](https://arxiv.org/abs/2305.11455)
 
+- **Direct Preference Optimization: Your Language Model is Secretly a Reward Model**. <br>  Rafailov R, Sharma A, Mitchell E, et al. (**Arxiv**) [[paper]](https://arxiv.org/abs/2305.18290)
 
 ### <u> Theory  </u>
 
